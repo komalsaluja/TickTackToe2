@@ -14,3 +14,7 @@ p{
             align-self:stretch;
             margin:auto;
         }
+
+body {
+    width:100%
+}
